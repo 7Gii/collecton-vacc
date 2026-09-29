@@ -1,0 +1,49 @@
+{
+  "id": "a8e09257-caee-43d5-b61e-9b1b5365a427",
+  "name": "follow_up_outcome",
+  "label": "Follow Up Outcome",
+  "options": [
+    {
+      "id": "2bee8381-1422-4848-9e10-870ecef1a74b",
+      "name": "Improving",
+      "value": "improving",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "29741b48-8b17-4943-97a4-7114a5e54ad1",
+      "name": "No change",
+      "value": "no_change",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "36e45203-d435-42ff-b6a1-9cc31bc8265e",
+      "name": "Worsening - referred",
+      "value": "worsening_referred",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "73a5c1e9-7893-4d2f-a911-7b0162f7867b",
+      "name": "Recovered",
+      "value": "recovered",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "27867dbf-a280-4310-89f7-7eee515eff69",
+      "name": "Defaulted",
+      "value": "defaulted",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "0cbb0320-e144-47a8-9ef8-baa2ac17641c",
+      "name": "Deceased",
+      "value": "deceased",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

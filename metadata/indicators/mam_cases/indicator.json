@@ -1,0 +1,16 @@
+{
+  "id": "4f7fa42e-f3e2-40cd-be0a-250c1142e0b5",
+  "name": "mam_cases",
+  "title": "MAM cases",
+  "icon": "ind-mam",
+  "space": 1,
+  "view": "default",
+  "description": [
+    "Children currently classified MAM."
+  ],
+  "goalExpression": "",
+  "type": "number",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 9
+}

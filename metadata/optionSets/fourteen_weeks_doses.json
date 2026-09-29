@@ -1,0 +1,42 @@
+{
+  "id": "dc3b45c9-922d-4dec-a9d2-f06f6ff2d5aa",
+  "name": "fourteen_weeks_doses",
+  "label": "Fourteen Weeks Doses",
+  "options": [
+    {
+      "id": "73ed119f-6302-41d7-bf71-9568be2c48b1",
+      "name": "Penta 3 (DTP-HepB-Hib)",
+      "value": "penta3",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "6b942bb4-9cd0-4dc3-93bf-cceec5bc99e6",
+      "name": "Polio 3 (OPV 3)",
+      "value": "opv3",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "44f84d9f-8a95-443b-9196-889018c3c3ec",
+      "name": "PCV 3 (pneumococcal)",
+      "value": "pcv3",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "5b162cf1-7a22-44ac-856b-7b9c4f347a2a",
+      "name": "Rota 3",
+      "value": "rota3",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "337886da-fd20-42f3-a403-a7156572c6c9",
+      "name": "IPV 1 (injectable polio)",
+      "value": "ipv1",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

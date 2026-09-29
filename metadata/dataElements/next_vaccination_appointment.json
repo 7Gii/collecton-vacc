@@ -1,0 +1,18 @@
+{
+  "id": "90dff33c-1525-474f-991e-41bec1651595",
+  "dataType": "date",
+  "organisation": "",
+  "name": "next_vaccination_appointment",
+  "label": "Next vaccination appointment",
+  "icon": "symbol-string",
+  "description": "Next vaccination appointment",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "906edc1b-e450-407e-920e-9821b1afe5cc",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "appetite_test",
+  "label": "Appetite test",
+  "icon": "symbol-string",
+  "description": "Appetite test",
+  "placeholder": "",
+  "hint": "Offer RUTF for 30 minutes",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "9aed8d02-8773-4509-9809-43fee099c2a0",
+  "tags": []
+}

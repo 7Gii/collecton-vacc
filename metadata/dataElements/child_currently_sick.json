@@ -1,0 +1,18 @@
+{
+  "id": "8827c590-ede9-4edb-8e17-a1643e79adaf",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "child_currently_sick",
+  "label": "Child currently sick",
+  "icon": "symbol-string",
+  "description": "Child currently sick",
+  "placeholder": "",
+  "hint": "A mild illness is not a reason to delay vaccination",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

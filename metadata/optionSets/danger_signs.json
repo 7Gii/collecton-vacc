@@ -1,0 +1,56 @@
+{
+  "id": "567d5140-a68d-4bcc-9339-1e901c540436",
+  "name": "danger_signs",
+  "label": "Danger Signs",
+  "options": [
+    {
+      "id": "d315068a-91ac-4409-9aca-f1435df061d2",
+      "name": "Unable to drink or breastfeed",
+      "value": "unable_to_drink",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "43ee5cab-4b41-425a-a2ae-159475ce7453",
+      "name": "Vomits everything",
+      "value": "vomits_everything",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "b624c2f2-0388-4f31-856c-d349ba918378",
+      "name": "Convulsions",
+      "value": "convulsions",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "1774d783-bbef-4309-8662-46c5e5956601",
+      "name": "Lethargic or unconscious",
+      "value": "lethargic",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "71e8e01e-56e4-447a-bbac-bd54e6aa1231",
+      "name": "High fever",
+      "value": "high_fever",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "c81a8f96-d843-4fd1-9ee4-75e00a084034",
+      "name": "Severe dehydration",
+      "value": "severe_dehydration",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "fd941d9f-96c8-4ba1-a183-d7b775f85050",
+      "name": "None",
+      "value": "none",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

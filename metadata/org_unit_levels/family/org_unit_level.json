@@ -1,0 +1,23 @@
+{
+  "id": "7cfdff4a-c389-48d0-b010-d794cb17ea0c",
+  "name": "family",
+  "label": "Family",
+  "icon": "ou-family",
+  "level": 5,
+  "attributes": [
+    {
+      "key": "14a98070-6661-4fac-8ec6-28bf51b6f876",
+      "title": "Identification details",
+      "fields": [
+        {
+          "key": "ou_name",
+          "label": "Organisation Unit Name",
+          "dataType": "string",
+          "dataElementId": "52bff903-6135-4124-8ea0-ebafbb50d5db",
+          "required": true
+        }
+      ]
+    }
+  ],
+  "dashboard": []
+}

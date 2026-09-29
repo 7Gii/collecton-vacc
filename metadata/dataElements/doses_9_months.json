@@ -1,0 +1,18 @@
+{
+  "id": "a9f67d9a-50cd-488a-981c-9ccb478537ec",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "doses_9_months",
+  "label": "9 months doses received",
+  "icon": "symbol-string",
+  "description": "9 months doses received",
+  "placeholder": "",
+  "hint": "Check every dose recorded",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "878a86d4-a1a9-4d60-98d1-6a19e6b40204",
+  "tags": []
+}

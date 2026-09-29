@@ -1,0 +1,18 @@
+{
+  "id": "c6220108-cd53-40b4-a5f7-6c13a02c7406",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "doses_5_7_months",
+  "label": "5-7 months doses received",
+  "icon": "symbol-string",
+  "description": "5-7 months doses received",
+  "placeholder": "",
+  "hint": "Malaria vaccine, one dose a month from 5 months",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "899bd195-3d89-438b-a3b1-6c033a8d8f4d",
+  "tags": []
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "09c24aef-9778-46af-88aa-2058367dd69f",
+    "name": "permission_view_tasks",
+    "label": "View Tasks Tab",
+    "description": "Allows the user to view the Tasks tab."
+  },
+  {
+    "id": "4223b0c7-10f2-438c-8474-c5c0ff07c9ff",
+    "name": "permission_view_people",
+    "label": "View People Tab",
+    "description": "Allows the user to view the People tab."
+  },
+  {
+    "id": "f8a0cf32-19fa-4e02-b30a-69cedf657f13",
+    "name": "permission_view_reports",
+    "label": "View Reports Tab",
+    "description": "Allows the user to view the Reports tab."
+  },
+  {
+    "id": "e19364be-7221-4e27-8dc1-9d413bb2d6b2",
+    "name": "permission_view_indicators",
+    "label": "View Indicators Tab",
+    "description": "Allows the user to view the Indicators tab."
+  },
+  {
+    "id": "a5dcd1e1-429f-4465-838c-804e48193e97",
+    "name": "permission_edit_report",
+    "label": "Edit Submitted Report",
+    "description": "Allows the user to edit submitted reports."
+  },
+  {
+    "id": "7c38d5c9-1036-4afc-9bf3-9224144c0c0e",
+    "name": "permission_delete_report",
+    "label": "Delete Submitted Report",
+    "description": "Allows the user to delete submitted reports."
+  },
+  {
+    "id": "b6b013c8-7318-49f5-9ccd-afcdd7d8fde7",
+    "name": "permission_automatic_sync",
+    "label": "Automatic Sync",
+    "description": "Allows the user to perform automatic synchronization."
+  },
+  {
+    "id": "05334465-dcef-4cb8-903e-07a76929ebab",
+    "name": "permission_manual_sync",
+    "label": "Manual Sync",
+    "description": "Allows the user to perform manual synchronization."
+  },
+  {
+    "id": "3815914a-72df-40d8-bb8a-959e7b819ff5",
+    "name": "permission_abandon_workflow",
+    "label": "Abandon Workflow",
+    "description": "Allows the user to abandon an in-progress workflow (person or org unit follow-up)."
+  },
+  {
+    "id": "ca0078c7-939b-4a77-b03f-685f3ee49b0c",
+    "name": "permission_create_country",
+    "label": "Create Country",
+    "description": "Allows creating a new 'Country'."
+  },
+  {
+    "id": "7c3e88d7-606e-4e27-8c52-3b9e40e8c8f2",
+    "name": "permission_edit_country",
+    "label": "Edit Country",
+    "description": "Allows editing an existing 'Country'."
+  },
+  {
+    "id": "579d0e7f-0b88-47f5-a5b4-a911ac2dd8e5",
+    "name": "permission_delete_country",
+    "label": "Delete Country",
+    "description": "Allows deleting a 'Country'."
+  },
+  {
+    "id": "886eb06e-9d1f-4957-b05a-2bccdc68f4df",
+    "name": "permission_create_health_area",
+    "label": "Create Health Area",
+    "description": "Allows creating a new 'Health Area'."
+  },
+  {
+    "id": "72a679f2-ec03-4c70-8315-f72ece587a07",
+    "name": "permission_edit_health_area",
+    "label": "Edit Health Area",
+    "description": "Allows editing an existing 'Health Area'."
+  },
+  {
+    "id": "c0809552-bfe1-4d44-af3a-4adcda6b8e4e",
+    "name": "permission_delete_health_area",
+    "label": "Delete Health Area",
+    "description": "Allows deleting a 'Health Area'."
+  },
+  {
+    "id": "b1b5b7f0-0533-47dd-a67c-a39e8dc343d5",
+    "name": "permission_create_supervision_zone",
+    "label": "Create Supervision Zone",
+    "description": "Allows creating a new 'Supervision Zone'."
+  },
+  {
+    "id": "c6764299-4553-48a5-9ecb-c9e88d3565dd",
+    "name": "permission_edit_supervision_zone",
+    "label": "Edit Supervision Zone",
+    "description": "Allows editing an existing 'Supervision Zone'."
+  },
+  {
+    "id": "116c6ac7-eab9-476d-beff-adf28dbdb715",
+    "name": "permission_delete_supervision_zone",
+    "label": "Delete Supervision Zone",
+    "description": "Allows deleting a 'Supervision Zone'."
+  },
+  {
+    "id": "86d5d688-940d-4958-b88e-0df2f116c5fb",
+    "name": "permission_create_chw_site",
+    "label": "Create CHW Site",
+    "description": "Allows creating a new 'CHW Site'."
+  },
+  {
+    "id": "cee4b88c-4065-4dcc-882c-9794991e854d",
+    "name": "permission_edit_chw_site",
+    "label": "Edit CHW Site",
+    "description": "Allows editing an existing 'CHW Site'."
+  },
+  {
+    "id": "b3129e6a-e7c1-4402-b7f7-e72ff8cadbde",
+    "name": "permission_delete_chw_site",
+    "label": "Delete CHW Site",
+    "description": "Allows deleting a 'CHW Site'."
+  },
+  {
+    "id": "82f7fc76-328e-4afc-8ea8-2edccb449b75",
+    "name": "permission_create_family",
+    "label": "Create Family",
+    "description": "Allows creating a new 'Family'."
+  },
+  {
+    "id": "77ae2289-9621-4cf6-ad81-859970bf4d81",
+    "name": "permission_edit_family",
+    "label": "Edit Family",
+    "description": "Allows editing an existing 'Family'."
+  },
+  {
+    "id": "ca2f4cbe-9fc7-46ad-b636-0abe4d8c6b25",
+    "name": "permission_delete_family",
+    "label": "Delete Family",
+    "description": "Allows deleting a 'Family'."
+  },
+  {
+    "id": "cac22074-5085-41dd-a743-2920302d573f",
+    "name": "permission_create_child",
+    "label": "Create Child",
+    "description": "Allows creating a new 'Child'."
+  },
+  {
+    "id": "3ede37d0-684f-4dc8-9357-117ad807e0f8",
+    "name": "permission_edit_child",
+    "label": "Edit Child",
+    "description": "Allows editing an existing 'Child'."
+  },
+  {
+    "id": "0b959d67-8106-4107-8ddc-ab43c6af3f08",
+    "name": "permission_delete_child",
+    "label": "Delete Child",
+    "description": "Allows deleting a 'Child'."
+  }
+]

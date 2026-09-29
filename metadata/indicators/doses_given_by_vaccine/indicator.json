@@ -1,0 +1,16 @@
+{
+  "id": "d2d25fea-16c0-42df-9a19-0a54dc30419d",
+  "name": "doses_given_by_vaccine",
+  "title": "Doses given by vaccine",
+  "icon": "ind-doses-chart",
+  "space": 4,
+  "view": "default",
+  "description": [
+    "Doses recorded on vaccination follow-ups this month, by vaccine."
+  ],
+  "goalExpression": "",
+  "type": "barchart",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 6
+}

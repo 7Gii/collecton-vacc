@@ -1,0 +1,23 @@
+{
+  "id": "bbfaf158-7237-41c2-811d-4e2be20caa08",
+  "name": "supervision_zone",
+  "label": "Supervision Zone",
+  "icon": "ou-supervision-zone",
+  "level": 3,
+  "attributes": [
+    {
+      "key": "ff7dce9c-fecc-41fb-a285-6802cb878643",
+      "title": "Identification details",
+      "fields": [
+        {
+          "key": "ou_name",
+          "label": "Organisation Unit Name",
+          "dataType": "string",
+          "dataElementId": "52bff903-6135-4124-8ea0-ebafbb50d5db",
+          "required": true
+        }
+      ]
+    }
+  ],
+  "dashboard": []
+}

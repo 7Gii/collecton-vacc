@@ -1,0 +1,16 @@
+{
+  "id": "4d9de6cb-0f66-48ab-b42c-016b671ae00d",
+  "name": "malaria_vaccine_3_doses_coverage",
+  "title": "Malaria vaccine 3 doses coverage",
+  "icon": "ind-coverage",
+  "space": 2,
+  "view": "default",
+  "description": [
+    "Assessed children 12-23 months who received Malaria 3."
+  ],
+  "goalExpression": "",
+  "type": "percentage",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 5
+}

@@ -1,0 +1,49 @@
+{
+  "id": "4203f6a3-be45-43c1-a653-4daa3c124dde",
+  "name": "food_groups",
+  "label": "Food Groups",
+  "options": [
+    {
+      "id": "c2aaefbf-939c-4b51-b671-9087c9afdc5c",
+      "name": "Cereals and tubers",
+      "value": "cereals",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "6c5d4965-92cd-42e7-a562-fad0219bfbd9",
+      "name": "Legumes and nuts",
+      "value": "legumes",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "32357a6e-c0f3-49e7-bf09-66de45291037",
+      "name": "Dairy",
+      "value": "dairy",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "bf7db38b-8018-4f67-98c2-79b50a297ad9",
+      "name": "Meat, fish, eggs",
+      "value": "animal_protein",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "510f0a74-98a3-40ab-9c56-15d90b88187c",
+      "name": "Vitamin A rich fruits and vegetables",
+      "value": "vitamin_a_foods",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "92b7144c-7e12-40e9-890d-6dd9db88b923",
+      "name": "Other fruits and vegetables",
+      "value": "other_fruits_vegetables",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

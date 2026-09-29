@@ -1,0 +1,18 @@
+{
+  "id": "0e40edbd-2c95-497d-a6dc-a3d6e3dae963",
+  "dataType": "decimal",
+  "organisation": "",
+  "name": "height_cm",
+  "label": "Height (cm)",
+  "icon": "symbol-string",
+  "description": "Height (cm)",
+  "placeholder": "",
+  "hint": "Lying down under 24 months, standing from 24 months",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

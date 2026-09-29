@@ -1,0 +1,18 @@
+{
+  "id": "d7480835-25c2-4321-a610-803af26bf75a",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "vaccination_card_available",
+  "label": "Vaccination card available",
+  "icon": "symbol-string",
+  "description": "Vaccination card available",
+  "placeholder": "",
+  "hint": "Ask to see the child health or vaccination card",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

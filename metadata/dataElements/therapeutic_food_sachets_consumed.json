@@ -1,0 +1,18 @@
+{
+  "id": "af3b9471-b141-489f-b5dd-4309e20e83b1",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "therapeutic_food_sachets_consumed",
+  "label": "Therapeutic food sachets consumed",
+  "icon": "symbol-string",
+  "description": "Therapeutic food sachets consumed",
+  "placeholder": "",
+  "hint": "Since the last visit",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "7737130c-30e8-4b0b-b071-60c9a6670301",
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "821f44a7-e168-4363-ad2b-5ffeb3cf17bf",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "child_seen",
+  "label": "Child seen",
+  "icon": "symbol-string",
+  "description": "Child seen",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

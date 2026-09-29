@@ -1,0 +1,18 @@
+{
+  "id": "27754732-ee1a-43bf-a626-45b35b333676",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "reason_child_not_seen",
+  "label": "Reason child not seen",
+  "icon": "symbol-string",
+  "description": "Reason child not seen",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "595194da-e9de-491f-a29c-06ee6a1be15c",
+  "tags": []
+}

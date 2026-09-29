@@ -1,0 +1,16 @@
+{
+  "id": "5e0809da-6eaf-4b3d-bc88-08d05f5f44f6",
+  "name": "children_screened_this_month",
+  "title": "Children screened this month",
+  "icon": "ind-screened",
+  "space": 2,
+  "view": "default",
+  "description": [
+    "Children with a nutrition assessment since the first day of the month."
+  ],
+  "goalExpression": "",
+  "type": "number",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 7
+}

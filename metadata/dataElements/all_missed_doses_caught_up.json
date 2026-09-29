@@ -1,0 +1,18 @@
+{
+  "id": "03a7b499-ee89-4665-9f3d-87ca7bf96e79",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "all_missed_doses_caught_up",
+  "label": "All missed doses caught up",
+  "icon": "symbol-string",
+  "description": "All missed doses caught up",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": "1978fbda-2639-4300-bc86-87a27305d867",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "reason_not_vaccinated",
+  "label": "Reason not vaccinated",
+  "icon": "symbol-string",
+  "description": "Reason not vaccinated",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "2c3cdfde-643b-4360-bb5c-edd730df41e4",
+  "tags": []
+}

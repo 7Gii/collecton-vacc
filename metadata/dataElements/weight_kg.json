@@ -1,0 +1,18 @@
+{
+  "id": "da4d4f05-8461-4a29-94da-69fa2bbb4a2b",
+  "dataType": "decimal",
+  "organisation": "",
+  "name": "weight_kg",
+  "label": "Weight (kg)",
+  "icon": "symbol-string",
+  "description": "Weight (kg)",
+  "placeholder": "",
+  "hint": "Weigh the child without clothes, to 0.1 kg",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

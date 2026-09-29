@@ -1,0 +1,18 @@
+{
+  "id": "e3cd9dde-ed33-457a-afd1-dacd7c3a47bb",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "followup_outcome",
+  "label": "Follow-up outcome",
+  "icon": "symbol-string",
+  "description": "Follow-up outcome",
+  "placeholder": "",
+  "hint": "Recovered: MUAC 125 mm or more and no oedema at two consecutive visits",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "a8e09257-caee-43d5-b61e-9b1b5365a427",
+  "tags": []
+}

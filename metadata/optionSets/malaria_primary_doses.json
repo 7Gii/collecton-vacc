@@ -1,0 +1,28 @@
+{
+  "id": "899bd195-3d89-438b-a3b1-6c033a8d8f4d",
+  "name": "malaria_primary_doses",
+  "label": "Malaria Primary Doses",
+  "options": [
+    {
+      "id": "0d1475df-1d16-4142-9ae2-4390d9c26b39",
+      "name": "Malaria 1 (RTS,S / R21)",
+      "value": "malaria1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "99b013cc-d74d-4137-b5ae-758f5e3dabee",
+      "name": "Malaria 2 (RTS,S / R21)",
+      "value": "malaria2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "3caa9e4c-f55c-47c8-ac32-b47af248d450",
+      "name": "Malaria 3 (RTS,S / R21)",
+      "value": "malaria3",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

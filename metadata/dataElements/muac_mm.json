@@ -1,0 +1,18 @@
+{
+  "id": "7b76a7c8-cb11-454a-8f01-c41dfba72ce3",
+  "dataType": "integer",
+  "organisation": "",
+  "name": "muac_mm",
+  "label": "MUAC (mm)",
+  "icon": "symbol-string",
+  "description": "MUAC (mm)",
+  "placeholder": "",
+  "hint": "Left arm, midpoint between shoulder and elbow. Red under 115, yellow 115 to 124",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

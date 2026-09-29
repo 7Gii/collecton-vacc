@@ -1,0 +1,25 @@
+{
+  "id": "a6735405-f0f3-468f-9898-50183c80f4b8",
+  "name": "overdue_vaccine_dose",
+  "title": "Overdue vaccine dose",
+  "icon": "task-overdue-dose",
+  "description": [
+    "Child with missing doses: visit from the day before the appointment."
+  ],
+  "appliesTo": "person",
+  "actionFormId": "ed69bcbe-7812-41aa-b0f7-32489e58e828",
+  "events": [
+    {
+      "id": "appointment",
+      "title": "Vaccination appointment",
+      "dueDate": "appointmentDate",
+      "startDays": 1,
+      "endDays": 7
+    }
+  ],
+  "personTypes": [
+    "child"
+  ],
+  "priority": 2,
+  "appliesIf": "appliesIf"
+}

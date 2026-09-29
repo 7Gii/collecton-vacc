@@ -1,0 +1,18 @@
+{
+  "id": "013029f7-46e8-43ca-9a59-1c75e06c11ce",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "danger_signs",
+  "label": "Danger signs",
+  "icon": "symbol-string",
+  "description": "Danger signs",
+  "placeholder": "",
+  "hint": "Any danger sign: urgent referral",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "567d5140-a68d-4bcc-9339-1e901c540436",
+  "tags": []
+}

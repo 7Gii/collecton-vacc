@@ -1,0 +1,18 @@
+{
+  "id": "493c1565-d2f3-49f6-999b-7b2e9616c17a",
+  "dataType": "integer",
+  "organisation": "",
+  "name": "meals_per_day",
+  "label": "Meals per day",
+  "icon": "symbol-string",
+  "description": "Meals per day",
+  "placeholder": "",
+  "hint": "Meals and snacks eaten yesterday",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

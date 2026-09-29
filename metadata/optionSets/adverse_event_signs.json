@@ -1,0 +1,49 @@
+{
+  "id": "b35a2629-d46f-428c-bd08-8b1d5cae3237",
+  "name": "adverse_event_signs",
+  "label": "Adverse Event Signs",
+  "options": [
+    {
+      "id": "4d4c876f-1dad-4250-9ac4-3595e801996d",
+      "name": "High fever",
+      "value": "high_fever",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "df24aa3d-cc54-4f8a-bf2e-94c1032c5bac",
+      "name": "Abscess at injection site",
+      "value": "abscess",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "3b1c88bd-0506-417e-a58b-b975fbd273b2",
+      "name": "Convulsions",
+      "value": "convulsions",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "00002a94-7a35-4634-81be-e53bed37a92c",
+      "name": "Persistent crying",
+      "value": "persistent_crying",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "e8a6f8a3-db0b-4690-a7f8-ef821398b834",
+      "name": "Rash",
+      "value": "rash",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "f501b891-f80f-4f68-a775-f069c9681fd0",
+      "name": "Other",
+      "value": "other",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

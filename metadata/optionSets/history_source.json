@@ -1,0 +1,28 @@
+{
+  "id": "e96fbed1-b2e7-4e3b-a679-ff1a2f343f24",
+  "name": "history_source",
+  "label": "History Source",
+  "options": [
+    {
+      "id": "0f8c91da-4532-48c5-ae7b-fc935041ead1",
+      "name": "Vaccination card",
+      "value": "card",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "3a9c8acf-976a-4310-88c2-0955a6063a2c",
+      "name": "Caregiver recall",
+      "value": "recall",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "6144bb2a-025f-4313-be1b-58a584b08400",
+      "name": "Health facility register",
+      "value": "register",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "61367a5b-feb2-4431-b3b6-fabe17b62b90",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "doses_6_weeks",
+  "label": "6 weeks doses received",
+  "icon": "symbol-string",
+  "description": "6 weeks doses received",
+  "placeholder": "",
+  "hint": "Check every dose recorded",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "f9ccd081-9cb3-4a3d-a1c2-462b5c6d7cab",
+  "tags": []
+}

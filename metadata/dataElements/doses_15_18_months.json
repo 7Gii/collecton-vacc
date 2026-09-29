@@ -1,0 +1,18 @@
+{
+  "id": "e2437749-f461-44c0-9406-2602a29bb2d1",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "doses_15_18_months",
+  "label": "15-18 months doses received",
+  "icon": "symbol-string",
+  "description": "15-18 months doses received",
+  "placeholder": "",
+  "hint": "Check every dose recorded",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "c6423c1b-8966-44d6-82f2-60708417a290",
+  "tags": []
+}

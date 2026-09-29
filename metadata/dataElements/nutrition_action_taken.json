@@ -1,0 +1,18 @@
+{
+  "id": "bf21ab65-af03-4a3c-9089-c8113c11c59a",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "nutrition_action_taken",
+  "label": "Nutrition action taken",
+  "icon": "symbol-string",
+  "description": "Nutrition action taken",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "2a33032d-ae54-4cc5-9f84-ac54e2a74287",
+  "tags": []
+}

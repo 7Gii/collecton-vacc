@@ -1,0 +1,23 @@
+{
+  "id": "a23b87bd-ac01-49cd-8c52-cfd455c8d56c",
+  "name": "health_area",
+  "label": "Health Area",
+  "icon": "ou-health-area",
+  "level": 2,
+  "attributes": [
+    {
+      "key": "80e6539a-9cb7-4d0e-bda7-affdd9c58f5d",
+      "title": "Identification details",
+      "fields": [
+        {
+          "key": "ou_name",
+          "label": "Organisation Unit Name",
+          "dataType": "string",
+          "dataElementId": "52bff903-6135-4124-8ea0-ebafbb50d5db",
+          "required": true
+        }
+      ]
+    }
+  ],
+  "dashboard": []
+}

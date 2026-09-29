@@ -1,0 +1,16 @@
+{
+  "id": "c2616baa-02fd-4fdb-98dc-b98d1024bb10",
+  "name": "nutrition_status_row",
+  "title": "Nutrition status (row)",
+  "icon": "ind-sam",
+  "space": 1,
+  "view": "person",
+  "description": [
+    "Red: SAM. Amber: MAM. Green: normal or recovered."
+  ],
+  "goalExpression": "",
+  "type": "icon",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 1
+}

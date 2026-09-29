@@ -1,0 +1,35 @@
+{
+  "id": "f9ccd081-9cb3-4a3d-a1c2-462b5c6d7cab",
+  "name": "six_weeks_doses",
+  "label": "Six Weeks Doses",
+  "options": [
+    {
+      "id": "cbe3030e-b893-4ae6-86f1-86a3186fa885",
+      "name": "Penta 1 (DTP-HepB-Hib)",
+      "value": "penta1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "f1d4f0e6-2b05-4aae-a6ac-33a9c20c29b0",
+      "name": "Polio 1 (OPV 1)",
+      "value": "opv1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "11a79caa-12dd-4deb-9ac4-9c8abaf05dea",
+      "name": "PCV 1 (pneumococcal)",
+      "value": "pcv1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "3dd150ca-be97-49ac-a7c4-4ebd270cdb8d",
+      "name": "Rota 1",
+      "value": "rota1",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

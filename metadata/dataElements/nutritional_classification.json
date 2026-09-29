@@ -1,0 +1,18 @@
+{
+  "id": "cc665216-de8c-453e-99c3-9a67fc84b413",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "nutritional_classification",
+  "label": "Nutritional classification",
+  "icon": "symbol-string",
+  "description": "Nutritional classification",
+  "placeholder": "",
+  "hint": "MAM: MUAC 115 to 124 mm. SAM: MUAC under 115 mm or oedema. Complicated: danger sign, failed appetite test or oedema +++",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "78da41a2-56b3-49c4-8ed1-438854569f14",
+  "tags": []
+}

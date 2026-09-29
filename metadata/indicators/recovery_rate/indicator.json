@@ -1,0 +1,16 @@
+{
+  "id": "4131dc86-2c0f-42c7-af5b-87ed369ab5e7",
+  "name": "recovery_rate",
+  "title": "Recovery rate",
+  "icon": "ind-recovery",
+  "space": 2,
+  "view": "default",
+  "description": [
+    "Recovered among closed malnutrition cases (recovered, defaulted, deceased)."
+  ],
+  "goalExpression": "",
+  "type": "percentage",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 10
+}

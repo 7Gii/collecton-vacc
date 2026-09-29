@@ -1,0 +1,18 @@
+{
+  "id": "41d3d923-c233-4ce9-b021-15a5d7628692",
+  "dataType": "date",
+  "organisation": "",
+  "name": "next_followup_date",
+  "label": "Next follow-up date",
+  "icon": "symbol-string",
+  "description": "Next follow-up date",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

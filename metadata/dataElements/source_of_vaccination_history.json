@@ -1,0 +1,18 @@
+{
+  "id": "5057fea9-d13d-4a26-a7bb-e465f8b495ce",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "source_of_vaccination_history",
+  "label": "Source of vaccination history",
+  "icon": "symbol-string",
+  "description": "Source of vaccination history",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "e96fbed1-b2e7-4e3b-a679-ff1a2f343f24",
+  "tags": []
+}

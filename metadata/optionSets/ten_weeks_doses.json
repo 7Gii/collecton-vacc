@@ -1,0 +1,35 @@
+{
+  "id": "a13353d8-91b0-4ad7-b096-d7f0d49fb0cf",
+  "name": "ten_weeks_doses",
+  "label": "Ten Weeks Doses",
+  "options": [
+    {
+      "id": "4b18f6d4-5404-48f0-9164-3c5872b42f86",
+      "name": "Penta 2 (DTP-HepB-Hib)",
+      "value": "penta2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "aecc5d92-ecff-4725-9ba6-07715960305c",
+      "name": "Polio 2 (OPV 2)",
+      "value": "opv2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "32f50bc8-28a0-4757-bb1c-1f122becf10e",
+      "name": "PCV 2 (pneumococcal)",
+      "value": "pcv2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "40160cde-4cac-41f3-ad8f-d256513a1392",
+      "name": "Rota 2",
+      "value": "rota2",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

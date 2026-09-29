@@ -1,0 +1,18 @@
+{
+  "id": "75a6b70f-49e8-44fc-a358-bacebebc0a10",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "adverse_event_after_a_previous_vaccination",
+  "label": "Adverse event after a previous vaccination",
+  "icon": "symbol-string",
+  "description": "Adverse event after a previous vaccination",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

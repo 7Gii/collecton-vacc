@@ -1,0 +1,23 @@
+{
+  "id": "6479abd3-cb5f-4947-b0e1-5445a788c6af",
+  "name": "chw_site",
+  "label": "CHW Site",
+  "icon": "ou-chw-site",
+  "level": 4,
+  "attributes": [
+    {
+      "key": "e268300c-2a2d-481d-a17d-de9e8af89e32",
+      "title": "Identification details",
+      "fields": [
+        {
+          "key": "ou_name",
+          "label": "Organisation Unit Name",
+          "dataType": "string",
+          "dataElementId": "52bff903-6135-4124-8ea0-ebafbb50d5db",
+          "required": true
+        }
+      ]
+    }
+  ],
+  "dashboard": []
+}

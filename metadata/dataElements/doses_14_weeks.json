@@ -1,0 +1,18 @@
+{
+  "id": "29b7ada0-d93d-42b7-8c01-3bf9df4845c8",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "doses_14_weeks",
+  "label": "14 weeks doses received",
+  "icon": "symbol-string",
+  "description": "14 weeks doses received",
+  "placeholder": "",
+  "hint": "Check every dose recorded",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "dc3b45c9-922d-4dec-a9d2-f06f6ff2d5aa",
+  "tags": []
+}

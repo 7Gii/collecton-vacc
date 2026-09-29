@@ -1,0 +1,57 @@
+{
+  "id": "5289166b-c27a-43b7-bb0f-ec88e82acb6a",
+  "name": "child_malnutrition",
+  "title": "Child Malnutrition",
+  "icon": "wf-nutrition",
+  "comments": [
+    "Acute malnutrition of children 6 to 59 months: screening, then weekly follow-up until recovery."
+  ],
+  "allowMultipleInstances": false,
+  "initialStepId": "screening",
+  "steps": [
+    {
+      "id": "screening",
+      "type": "FORM",
+      "title": "Nutrition assessment",
+      "formId": "4548b117-1ba4-415f-b6c8-c24d6d3b9824",
+      "nextStepId": "check_malnourished"
+    },
+    {
+      "id": "check_malnourished",
+      "type": "CONDITION",
+      "title": "Acute malnutrition?",
+      "nextStepId": "followup",
+      "else": "end_normal",
+      "conditionExpression": "isMalnourished"
+    },
+    {
+      "id": "followup",
+      "type": "FORM",
+      "title": "Nutrition follow-up",
+      "formId": "195c749e-389e-4b54-9b2f-47b38600d3c9",
+      "nextStepId": "check_recovered"
+    },
+    {
+      "id": "check_recovered",
+      "type": "CONDITION",
+      "title": "Recovered?",
+      "nextStepId": "end_recovered",
+      "else": "followup",
+      "conditionExpression": "isRecovered"
+    },
+    {
+      "id": "end_normal",
+      "type": "END",
+      "title": "Normal nutritional status",
+      "finalMessage": "No acute malnutrition. Screen again at the next monthly visit."
+    },
+    {
+      "id": "end_recovered",
+      "type": "END",
+      "title": "Recovered",
+      "finalMessage": "The child has recovered from acute malnutrition."
+    }
+  ],
+  "displayExpression": "isEligible",
+  "cancelExpression": "shouldClose"
+}

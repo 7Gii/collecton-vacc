@@ -1,0 +1,35 @@
+{
+  "id": "7737130c-30e8-4b0b-b071-60c9a6670301",
+  "name": "sachets_consumption",
+  "label": "Sachets Consumption",
+  "options": [
+    {
+      "id": "442de81b-1445-46da-b32c-fc8794dfcff3",
+      "name": "All",
+      "value": "all",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "a9be6bc7-516e-44d6-9405-f751bdddfadf",
+      "name": "More than half",
+      "value": "more_than_half",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "9e310b9e-5012-4375-b61a-cdeeb5172da6",
+      "name": "Less than half",
+      "value": "less_than_half",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "cf120c9a-272a-478c-af22-df068cf3f9e5",
+      "name": "None",
+      "value": "none",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

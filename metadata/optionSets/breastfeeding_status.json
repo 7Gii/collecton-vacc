@@ -1,0 +1,28 @@
+{
+  "id": "6725e53a-d5a1-4a04-82fd-df4c90dd485f",
+  "name": "breastfeeding_status",
+  "label": "Breastfeeding Status",
+  "options": [
+    {
+      "id": "a0dd1b47-f430-4ab9-9cde-54bc73a26fd8",
+      "name": "Exclusive",
+      "value": "exclusive",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "a67e9564-b92a-426e-89db-f3a2565ff36e",
+      "name": "Partial",
+      "value": "partial",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "1a742dc3-dd12-4e91-9723-8df78d90aaf1",
+      "name": "Not breastfed",
+      "value": "not_breastfed",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

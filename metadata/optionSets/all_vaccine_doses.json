@@ -1,0 +1,196 @@
+{
+  "id": "9c85f1fe-89ec-41db-bc2e-3c4565dfb51e",
+  "name": "all_vaccine_doses",
+  "label": "All Vaccine Doses",
+  "options": [
+    {
+      "id": "e7e33469-b918-42d8-9e65-aa2627bd07b1",
+      "name": "BCG",
+      "value": "bcg",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "dd89d9c5-fefd-47c0-9284-4d4e0cc54d3c",
+      "name": "Polio 0 (OPV 0)",
+      "value": "opv0",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "e4dfcfc2-b0d3-4c05-9b98-47c9f529a762",
+      "name": "Hepatitis B birth dose",
+      "value": "hepb0",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "332986af-3b5c-406a-b89b-5a8cff89f143",
+      "name": "Penta 1 (DTP-HepB-Hib)",
+      "value": "penta1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "abdd4beb-2522-414c-900a-bb1ca3df14e7",
+      "name": "Penta 2 (DTP-HepB-Hib)",
+      "value": "penta2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "88d85548-dbe3-4377-a44b-4d5568e4ecee",
+      "name": "Penta 3 (DTP-HepB-Hib)",
+      "value": "penta3",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "04b2d7c1-8da8-4da6-a694-bc72f4d8d576",
+      "name": "Polio 1 (OPV 1)",
+      "value": "opv1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "6a42d35a-50c3-4f2b-b87b-0d573b07377d",
+      "name": "Polio 2 (OPV 2)",
+      "value": "opv2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "96c399e2-bb37-4287-a917-48a56b26ea6a",
+      "name": "Polio 3 (OPV 3)",
+      "value": "opv3",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "375fd50f-637e-4fa8-9f73-d1d4dc8a8627",
+      "name": "PCV 1 (pneumococcal)",
+      "value": "pcv1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "b21d7b7e-00c9-4eb8-8049-89ad9ccdf533",
+      "name": "PCV 2 (pneumococcal)",
+      "value": "pcv2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "98a5ac9f-09b6-41ec-8126-bdbb31073bae",
+      "name": "PCV 3 (pneumococcal)",
+      "value": "pcv3",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "d7ee091a-6cb8-40a0-9267-c6e52e6d2846",
+      "name": "Rota 1",
+      "value": "rota1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "92c6becd-4ad9-405b-b746-b97a38e210c0",
+      "name": "Rota 2",
+      "value": "rota2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "84313d99-a1f0-452e-a858-d3209ec9dbde",
+      "name": "Rota 3",
+      "value": "rota3",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "b7de7dea-8c94-43b8-bb46-ccff186429ad",
+      "name": "IPV 1 (injectable polio)",
+      "value": "ipv1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "7f6a0c05-9c3b-4053-942f-cff86378f91d",
+      "name": "IPV 2 (injectable polio)",
+      "value": "ipv2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "6d25bacc-9054-4634-b1cd-646228259ee0",
+      "name": "Malaria 1 (RTS,S / R21)",
+      "value": "malaria1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "76972807-4607-48af-a581-36133ff84bc7",
+      "name": "Malaria 2 (RTS,S / R21)",
+      "value": "malaria2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "e1b3f021-db37-4b5a-8bab-5fcc98876a37",
+      "name": "Malaria 3 (RTS,S / R21)",
+      "value": "malaria3",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "f4cba1f6-ee68-4017-8878-39216b073679",
+      "name": "Malaria 4 (RTS,S / R21)",
+      "value": "malaria4",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "b0555903-83d1-48cb-8641-28cb22f6cc35",
+      "name": "Measles-Rubella 1",
+      "value": "mr1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "0b73a80e-48a5-4352-93b4-3dd416b2fb18",
+      "name": "Measles-Rubella 2",
+      "value": "mr2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "04f93534-7223-4132-be61-b0ec60164891",
+      "name": "Yellow fever",
+      "value": "yf",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "057ca7bd-b3f8-4e79-9612-744b0bb6a666",
+      "name": "Meningitis A (MenAfriVac)",
+      "value": "mena",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "a1bc0886-56db-4a66-ac3d-6f10cdb51a9b",
+      "name": "Typhoid conjugate (TCV)",
+      "value": "tcv",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "0c6c88d0-1631-4046-9971-f72b0d0f3bf9",
+      "name": "DTP booster",
+      "value": "dtp_booster",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

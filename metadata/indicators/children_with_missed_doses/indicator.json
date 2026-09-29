@@ -1,0 +1,16 @@
+{
+  "id": "ae4510a6-74c0-43ba-8089-ee0ca35f76f3",
+  "name": "children_with_missed_doses",
+  "title": "Children with missed doses",
+  "icon": "ind-missed-doses",
+  "space": 2,
+  "view": "default",
+  "description": [
+    "Assessed children 0-59 months with at least one overdue dose."
+  ],
+  "goalExpression": "",
+  "type": "number",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 2
+}

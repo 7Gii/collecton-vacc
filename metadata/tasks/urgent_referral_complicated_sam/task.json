@@ -1,0 +1,27 @@
+{
+  "id": "4a723d76-84c8-4cd2-8bc0-f488d5e96282",
+  "name": "urgent_referral_complicated_sam",
+  "title": "Urgent referral - complicated SAM",
+  "icon": "task-urgent-referral",
+  "description": [
+    "Complicated SAM or danger sign: check the referral within 24 hours."
+  ],
+  "appliesTo": "report",
+  "actionFormId": "195c749e-389e-4b54-9b2f-47b38600d3c9",
+  "events": [
+    {
+      "id": "referral_check",
+      "title": "Check the referral",
+      "dueDays": 1,
+      "startDays": 1,
+      "endDays": 3
+    }
+  ],
+  "forms": [
+    "child_nutrition_assessment",
+    "child_nutrition_followup"
+  ],
+  "resolvedIf": "resolvedIf",
+  "priority": 1,
+  "appliesIf": "appliesIf"
+}

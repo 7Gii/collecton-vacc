@@ -1,0 +1,18 @@
+{
+  "id": "e29126ac-efa9-4bb0-8846-8b98267c8c5c",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "doses_received_since_last_visit",
+  "label": "Doses received since last visit",
+  "icon": "symbol-string",
+  "description": "Doses received since last visit",
+  "placeholder": "",
+  "hint": "Check every dose recorded on the card since the last visit",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "9c85f1fe-89ec-41db-bc2e-3c4565dfb51e",
+  "tags": []
+}

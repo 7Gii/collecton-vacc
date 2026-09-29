@@ -1,0 +1,35 @@
+{
+  "id": "78da41a2-56b3-49c4-8ed1-438854569f14",
+  "name": "nutrition_classification",
+  "label": "Nutrition Classification",
+  "options": [
+    {
+      "id": "4b855451-102e-4978-b993-12b092a58ae9",
+      "name": "Normal",
+      "value": "normal",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "07168d53-5ef8-4a0d-8e2d-9933b234e91f",
+      "name": "MAM",
+      "value": "mam",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "cbf68802-4daf-4703-b48f-9e87ff69abaa",
+      "name": "SAM without complication",
+      "value": "sam",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "d4242654-de3b-448b-b8f4-8145fba6062f",
+      "name": "SAM with complication",
+      "value": "sam_complicated",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

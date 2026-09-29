@@ -1,0 +1,16 @@
+{
+  "id": "b552bc5c-7075-4eec-8140-3d6c3a28778b",
+  "name": "penta_3_coverage_1223_months",
+  "title": "Penta 3 coverage 12-23 months",
+  "icon": "ind-coverage",
+  "space": 2,
+  "view": "default",
+  "description": [
+    "Assessed children 12-23 months who received Penta 3."
+  ],
+  "goalExpression": "",
+  "type": "percentage",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 3
+}

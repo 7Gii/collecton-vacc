@@ -1,0 +1,16 @@
+{
+  "id": "47003bbb-99b6-4186-8497-2ae17b0e4ef3",
+  "name": "vaccination_status_row",
+  "title": "Vaccination status (row)",
+  "icon": "ind-immunized",
+  "space": 1,
+  "view": "person",
+  "description": [
+    "Green shield: up to date. Red: at least one overdue dose."
+  ],
+  "goalExpression": "",
+  "type": "icon",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 2
+}

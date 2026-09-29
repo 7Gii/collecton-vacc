@@ -1,0 +1,28 @@
+{
+  "id": "219b399d-b6e4-4f7a-b22a-2c9b8837d8ab",
+  "name": "vaccination_action",
+  "label": "Vaccination Action",
+  "options": [
+    {
+      "id": "7ea9d79b-4eca-4018-9b16-0f483939e63c",
+      "name": "Referred to the health facility",
+      "value": "referred",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "9505a16a-4fe4-41d1-864f-cb54240023eb",
+      "name": "Vaccinated during outreach session",
+      "value": "vaccinated_outreach",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "d58c4739-d81b-4323-98b9-e0daacd7f477",
+      "name": "No vaccine due",
+      "value": "none_due",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

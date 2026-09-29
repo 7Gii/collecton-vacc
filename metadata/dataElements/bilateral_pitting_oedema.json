@@ -1,0 +1,18 @@
+{
+  "id": "a7604f73-0601-460c-bc24-baeeac5a626a",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "bilateral_pitting_oedema",
+  "label": "Bilateral pitting oedema",
+  "icon": "symbol-string",
+  "description": "Bilateral pitting oedema",
+  "placeholder": "",
+  "hint": "Press both feet for 3 seconds",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "087ba9d2-970a-47cb-bd62-5e75b5dc5fb5",
+  "tags": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "9aed8d02-8773-4509-9809-43fee099c2a0",
+  "name": "appetite_test_result",
+  "label": "Appetite Test Result",
+  "options": [
+    {
+      "id": "2ed66b25-1472-4589-9591-a68cc3e5c779",
+      "name": "Passed",
+      "value": "passed",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "bb650156-2b9e-44b4-9b05-94b72cb12bda",
+      "name": "Failed",
+      "value": "failed",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "fb0f6fad-8761-4c8e-b6d0-e4bf7c76bef2",
+      "name": "Not done",
+      "value": "not_done",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

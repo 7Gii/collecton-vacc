@@ -1,0 +1,28 @@
+{
+  "id": "2faeeac8-bd0d-4859-87f8-56ff8b1c71c5",
+  "name": "supervisor",
+  "label": "Supervisor",
+  "orgUnitLevelId": "bbfaf158-7237-41c2-811d-4e2be20caa08",
+  "permissions": [
+    "permission_view_tasks",
+    "permission_view_people",
+    "permission_view_reports",
+    "permission_view_indicators",
+    "permission_edit_report",
+    "permission_delete_report",
+    "permission_automatic_sync",
+    "permission_manual_sync",
+    "permission_abandon_workflow",
+    "permission_create_chw_site",
+    "permission_edit_chw_site",
+    "permission_create_family",
+    "permission_edit_family",
+    "permission_delete_family",
+    "permission_create_child",
+    "permission_edit_child",
+    "permission_delete_child"
+  ],
+  "orgUnitsSync": "getOrgUnitsForSync",
+  "personsSync": "getPersonsForSync",
+  "reportsSync": "getReportsForSync"
+}

@@ -1,0 +1,183 @@
+{
+  "id": "ed69bcbe-7812-41aa-b0f7-32489e58e828",
+  "name": "child_vaccination_followup",
+  "title": "Child vaccination follow-up",
+  "version": "1.0.0",
+  "icon": "form-vaccination-followup",
+  "className": "",
+  "displayExpression": "showForm",
+  "duration": 30,
+  "sections": [
+    {
+      "key": "3bddb340-97f8-45e4-baaa-fa271e395564",
+      "title": "Visit",
+      "icon": "sec-visit",
+      "collapsible": "(app) => false",
+      "fullPage": "(app) => true",
+      "isRepeatable": "(app) => false",
+      "repeatCount": "(app) => 2",
+      "displayExpression": "(app) => true",
+      "fields": [
+        {
+          "key": "child_seen",
+          "label": "Child seen",
+          "dataType": "boolean",
+          "dataElementId": "821f44a7-e168-4363-ad2b-5ffeb3cf17bf",
+          "tags": [],
+          "className": "",
+          "required": "(app) => true",
+          "displayExpression": "(app) => true",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        },
+        {
+          "key": "reason_child_not_seen",
+          "label": "Reason child not seen",
+          "dataType": "select_one",
+          "dataElementId": "27754732-ee1a-43bf-a626-45b35b333676",
+          "tags": [],
+          "className": "",
+          "required": "(app) => app.currentForm.child_seen === false",
+          "displayExpression": "(app) => app.currentForm.child_seen === false",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        }
+      ]
+    },
+    {
+      "key": "df15a7b8-8fe6-4dcb-a767-3f1cfae2d5a8",
+      "title": "Doses",
+      "icon": "sec-vaccines",
+      "collapsible": "(app) => false",
+      "fullPage": "(app) => true",
+      "isRepeatable": "(app) => false",
+      "repeatCount": "(app) => 2",
+      "displayExpression": "(app) => app.currentForm.child_seen === true",
+      "fields": [
+        {
+          "key": "vaccination_card_checked",
+          "label": "Vaccination card checked",
+          "dataType": "boolean",
+          "dataElementId": "2d78504a-14c0-4aff-a18a-1a33b8915d24",
+          "tags": [],
+          "className": "",
+          "required": "(app) => false",
+          "displayExpression": "(app) => true",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        },
+        {
+          "key": "doses_received_since_last_visit",
+          "label": "Doses received since last visit",
+          "dataType": "select_multiple",
+          "dataElementId": "e29126ac-efa9-4bb0-8846-8b98267c8c5c",
+          "tags": [],
+          "className": "",
+          "required": "(app) => false",
+          "displayExpression": "(app) => true",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "Check every dose recorded on the card since the last visit",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        },
+        {
+          "key": "all_missed_doses_caught_up",
+          "label": "All missed doses caught up",
+          "dataType": "boolean",
+          "dataElementId": "03a7b499-ee89-4665-9f3d-87ca7bf96e79",
+          "tags": [],
+          "className": "",
+          "required": "(app) => app.currentForm.child_seen === true",
+          "displayExpression": "(app) => true",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        },
+        {
+          "key": "reason_not_vaccinated",
+          "label": "Reason not vaccinated",
+          "dataType": "select_one",
+          "dataElementId": "1978fbda-2639-4300-bc86-87a27305d867",
+          "tags": [],
+          "className": "",
+          "required": "(app) => app.currentForm.all_missed_doses_caught_up === false",
+          "displayExpression": "(app) => app.currentForm.all_missed_doses_caught_up === false",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        },
+        {
+          "key": "adverse_event_since_last_visit",
+          "label": "Adverse event since last visit",
+          "dataType": "boolean",
+          "dataElementId": "a804847b-2e9c-4fa1-929b-af444272d606",
+          "tags": [],
+          "className": "",
+          "required": "(app) => false",
+          "displayExpression": "(app) => true",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        }
+      ]
+    },
+    {
+      "key": "ed200b16-ad72-4b51-aeb6-06a2e6157511",
+      "title": "Next appointment",
+      "icon": "sec-decision",
+      "collapsible": "(app) => false",
+      "fullPage": "(app) => true",
+      "isRepeatable": "(app) => false",
+      "repeatCount": "(app) => 2",
+      "displayExpression": "(app) => true",
+      "fields": [
+        {
+          "key": "next_vaccination_appointment",
+          "label": "Next vaccination appointment",
+          "dataType": "date",
+          "dataElementId": "90dff33c-1525-474f-991e-41bec1651595",
+          "tags": [],
+          "className": "",
+          "required": "(app) => false",
+          "displayExpression": "(app) => app.currentForm.all_missed_doses_caught_up !== true",
+          "validationExpression": "(app) => !app.currentForm.next_vaccination_appointment || new Date(app.currentForm.next_vaccination_appointment) >= new Date(new Date().toDateString())",
+          "placeholder": "",
+          "hint": "",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The appointment must be today or later"
+        },
+        {
+          "key": "comments",
+          "label": "Comments",
+          "dataType": "string",
+          "dataElementId": "08933d27-334f-4613-acb9-4fd722227d86",
+          "tags": [],
+          "className": "",
+          "required": "(app) => false",
+          "displayExpression": "(app) => true",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        }
+      ]
+    }
+  ]
+}

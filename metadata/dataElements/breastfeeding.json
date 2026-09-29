@@ -1,0 +1,18 @@
+{
+  "id": "ddfa3281-dddf-4cf4-a453-fe8c3dc2613a",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "breastfeeding",
+  "label": "Breastfeeding",
+  "icon": "symbol-string",
+  "description": "Breastfeeding",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "6725e53a-d5a1-4a04-82fd-df4c90dd485f",
+  "tags": []
+}

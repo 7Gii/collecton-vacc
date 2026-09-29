@@ -1,0 +1,18 @@
+{
+  "id": "08933d27-334f-4613-acb9-4fd722227d86",
+  "dataType": "string",
+  "organisation": "",
+  "name": "comments",
+  "label": "Comments",
+  "icon": "symbol-string",
+  "description": "Comments",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

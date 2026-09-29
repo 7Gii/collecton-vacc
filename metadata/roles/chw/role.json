@@ -1,0 +1,22 @@
+{
+  "id": "8a4185f6-c48c-416b-9cc4-59d13ccececd",
+  "name": "chw",
+  "label": "CHW",
+  "orgUnitLevelId": "6479abd3-cb5f-4947-b0e1-5445a788c6af",
+  "permissions": [
+    "permission_view_tasks",
+    "permission_view_people",
+    "permission_view_reports",
+    "permission_view_indicators",
+    "permission_edit_report",
+    "permission_automatic_sync",
+    "permission_manual_sync",
+    "permission_create_family",
+    "permission_edit_family",
+    "permission_create_child",
+    "permission_edit_child"
+  ],
+  "orgUnitsSync": "getOrgUnitsForSync",
+  "personsSync": "getPersonsForSync",
+  "reportsSync": "getReportsForSync"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "3b7ff51c-94b7-4350-87e6-46fa17d788c3",
+  "name": "sam_cases",
+  "title": "SAM cases",
+  "icon": "ind-sam",
+  "space": 1,
+  "view": "default",
+  "description": [
+    "Children currently classified SAM, with or without complication."
+  ],
+  "goalExpression": "",
+  "type": "number",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 8
+}

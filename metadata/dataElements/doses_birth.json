@@ -1,0 +1,18 @@
+{
+  "id": "af9ef030-8954-4af6-8d58-e536e04c0ff7",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "doses_birth",
+  "label": "Birth doses received",
+  "icon": "symbol-string",
+  "description": "Birth doses received",
+  "placeholder": "",
+  "hint": "Check every dose recorded",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "bb904ae4-1689-46b8-91e5-6e065f010ee1",
+  "tags": []
+}

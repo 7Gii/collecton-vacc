@@ -1,0 +1,18 @@
+{
+  "id": "8b74aac7-2cbb-46b9-85e7-7d66bc03641f",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "doses_10_weeks",
+  "label": "10 weeks doses received",
+  "icon": "symbol-string",
+  "description": "10 weeks doses received",
+  "placeholder": "",
+  "hint": "Check every dose recorded",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "a13353d8-91b0-4ad7-b096-d7f0d49fb0cf",
+  "tags": []
+}

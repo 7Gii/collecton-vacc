@@ -1,0 +1,18 @@
+{
+  "id": "bd929897-aae9-42bf-8470-684c19eb24fa",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "caregiver_present",
+  "label": "Caregiver present",
+  "icon": "symbol-string",
+  "description": "Caregiver present",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

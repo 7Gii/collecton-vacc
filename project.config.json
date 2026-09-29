@@ -1,0 +1,46 @@
+{
+  "name": "child_vaccination_and_nutrition_program",
+  "title": "Child Vaccination and Nutrition Program",
+  "theme": "default",
+  "description": "Default project description.",
+  "organisation": "",
+  "version": "1.0.0",
+  "partners": [],
+  "branding": [],
+  "attributes": {},
+  "deploymentType": "staging",
+  "icon": "",
+  "mobileMaxQueryRows": 100,
+  "consoleMaxQueryRows": 500,
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "defaultLanguage": "en",
+  "utilsFolder": "utils",
+  "styling": {
+    "globalCss": "assets/css/global.css"
+  },
+  "devInstances": [],
+  "automations": [],
+  "metadataFiles": {
+    "permissions": "metadata/permissions.json",
+    "tags": "metadata/tags.json"
+  },
+  "metadataFolders": {
+    "assets": "assets/",
+    "i18n": "i18n/",
+    "scripts": "scripts/",
+    "metadata": "metadata/",
+    "org_unit_levels": "metadata/org_unit_levels/",
+    "person_types": "metadata/person_types/",
+    "roles": "metadata/roles/",
+    "forms": "metadata/forms/",
+    "workflows": "metadata/workflows/",
+    "indicators": "metadata/indicators/",
+    "tasks": "metadata/tasks/",
+    "automations": "metadata/automations/",
+    "optionSets": "metadata/optionSets/",
+    "dataElements": "metadata/dataElements/"
+  }
+}

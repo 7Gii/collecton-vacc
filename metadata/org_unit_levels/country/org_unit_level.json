@@ -1,0 +1,23 @@
+{
+  "id": "ea3888ab-6141-4c88-919f-8daf67ea57ce",
+  "name": "country",
+  "label": "Country",
+  "icon": "ou-country",
+  "level": 1,
+  "attributes": [
+    {
+      "key": "03d15573-3870-4550-b79e-460e9e1026ca",
+      "title": "Identification details",
+      "fields": [
+        {
+          "key": "ou_name",
+          "label": "Organisation Unit Name",
+          "dataType": "string",
+          "dataElementId": "52bff903-6135-4124-8ea0-ebafbb50d5db",
+          "required": true
+        }
+      ]
+    }
+  ],
+  "dashboard": []
+}

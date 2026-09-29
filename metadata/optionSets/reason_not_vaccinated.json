@@ -1,0 +1,49 @@
+{
+  "id": "2c3cdfde-643b-4360-bb5c-edd730df41e4",
+  "name": "reason_not_vaccinated",
+  "label": "Reason Not Vaccinated",
+  "options": [
+    {
+      "id": "12496e31-a350-420b-8da1-85fe0155843d",
+      "name": "Caregiver unavailable",
+      "value": "caregiver_unavailable",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "3fdd319b-ecd1-4bd6-a694-f3d71c73f245",
+      "name": "Vaccine stock-out",
+      "value": "stock_out",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "b472c961-b86b-4853-b326-4c9ff9bf0826",
+      "name": "Child sick",
+      "value": "child_sick",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "28c1fc03-c7f7-48e5-8bb2-c6e2170085d2",
+      "name": "Refusal",
+      "value": "refusal",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "a5e3b3b6-117f-4d78-925e-a95bb04f13d4",
+      "name": "Distance",
+      "value": "distance",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "48d43d12-da3a-4092-9728-dcec37e20156",
+      "name": "Other",
+      "value": "other",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

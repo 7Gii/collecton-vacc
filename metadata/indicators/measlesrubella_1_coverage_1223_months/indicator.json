@@ -1,0 +1,16 @@
+{
+  "id": "8218fc42-0902-46c9-a752-4688f9482759",
+  "name": "measlesrubella_1_coverage_1223_months",
+  "title": "Measles-Rubella 1 coverage 12-23 months",
+  "icon": "ind-coverage",
+  "space": 2,
+  "view": "default",
+  "description": [
+    "Assessed children 12-23 months who received MR1."
+  ],
+  "goalExpression": "",
+  "type": "percentage",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 4
+}

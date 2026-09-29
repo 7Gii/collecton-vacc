@@ -1,0 +1,18 @@
+{
+  "id": "a804847b-2e9c-4fa1-929b-af444272d606",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "adverse_event_since_last_visit",
+  "label": "Adverse event since last visit",
+  "icon": "symbol-string",
+  "description": "Adverse event since last visit",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

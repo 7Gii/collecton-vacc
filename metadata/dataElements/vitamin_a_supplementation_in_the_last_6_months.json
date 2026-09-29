@@ -1,0 +1,18 @@
+{
+  "id": "522e58cf-7214-418a-91dc-254e702c6b69",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "vitamin_a_supplementation_in_the_last_6_months",
+  "label": "Vitamin A supplementation in the last 6 months",
+  "icon": "symbol-string",
+  "description": "Vitamin A supplementation in the last 6 months",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "878a86d4-a1a9-4d60-98d1-6a19e6b40204",
+  "name": "nine_months_doses",
+  "label": "Nine Months Doses",
+  "options": [
+    {
+      "id": "57407c15-b617-4ba5-bdb7-1154bae914ae",
+      "name": "Measles-Rubella 1",
+      "value": "mr1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "fbdb017a-1cc6-4b2b-bb42-9f77ec7d0eb5",
+      "name": "Yellow fever",
+      "value": "yf",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "5ab962f1-44a7-4f84-bf97-34049a7a8fd3",
+      "name": "Meningitis A (MenAfriVac)",
+      "value": "mena",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "7a484cc4-acfd-4c8e-9038-760387063b06",
+      "name": "Typhoid conjugate (TCV)",
+      "value": "tcv",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "6ec21d4a-959f-495e-9244-2f1677544860",
+      "name": "IPV 2 (injectable polio)",
+      "value": "ipv2",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

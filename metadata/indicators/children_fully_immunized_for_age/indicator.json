@@ -1,0 +1,16 @@
+{
+  "id": "97a29947-d829-4177-aa61-7b5a6328d612",
+  "name": "children_fully_immunized_for_age",
+  "title": "Children fully immunized for age",
+  "icon": "ind-immunized",
+  "space": 2,
+  "view": "default",
+  "description": [
+    "Assessed children 0-59 months with every dose due for their age recorded."
+  ],
+  "goalExpression": "",
+  "type": "percentage",
+  "displayExpression": "showIndicator",
+  "valueExpression": "calculateValue",
+  "priority": 1
+}

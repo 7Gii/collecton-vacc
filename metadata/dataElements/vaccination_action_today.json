@@ -1,0 +1,18 @@
+{
+  "id": "f818323c-cf2d-4b2e-b960-9fcd99f4bbf4",
+  "dataType": "select_one",
+  "organisation": "",
+  "name": "vaccination_action_today",
+  "label": "Vaccination action today",
+  "icon": "symbol-string",
+  "description": "Vaccination action today",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "219b399d-b6e4-4f7a-b22a-2c9b8837d8ab",
+  "tags": []
+}

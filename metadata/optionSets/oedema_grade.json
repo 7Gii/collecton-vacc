@@ -1,0 +1,35 @@
+{
+  "id": "087ba9d2-970a-47cb-bd62-5e75b5dc5fb5",
+  "name": "oedema_grade",
+  "label": "Oedema Grade",
+  "options": [
+    {
+      "id": "96a58855-68b9-48a7-a1ed-514b54553266",
+      "name": "None",
+      "value": "none",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "91f84e47-49ab-498d-9f11-9e24d672eccd",
+      "name": "+ (feet)",
+      "value": "grade1",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "f7dc8007-b75f-49ec-a1de-722b1da2381b",
+      "name": "++ (feet and legs)",
+      "value": "grade2",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "6a9bd82b-2d3d-44ce-86bc-aa7506e46dbe",
+      "name": "+++ (generalized)",
+      "value": "grade3",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

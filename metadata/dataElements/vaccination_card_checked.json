@@ -1,0 +1,18 @@
+{
+  "id": "2d78504a-14c0-4aff-a18a-1a33b8915d24",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "vaccination_card_checked",
+  "label": "Vaccination card checked",
+  "icon": "symbol-string",
+  "description": "Vaccination card checked",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

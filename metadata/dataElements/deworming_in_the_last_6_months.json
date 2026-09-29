@@ -1,0 +1,18 @@
+{
+  "id": "34ec1409-92d6-46a6-81d1-89394588a7cc",
+  "dataType": "boolean",
+  "organisation": "",
+  "name": "deworming_in_the_last_6_months",
+  "label": "Deworming in the last 6 months",
+  "icon": "symbol-string",
+  "description": "Deworming in the last 6 months",
+  "placeholder": "",
+  "hint": "From 12 months",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

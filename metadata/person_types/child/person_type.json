@@ -1,0 +1,127 @@
+{
+  "id": "5d3947df-cedd-4046-bf79-1e6cc7335e7a",
+  "name": "child",
+  "label": "Child",
+  "icon": "person-child",
+  "orgUnitLevelId": "7cfdff4a-c389-48d0-b010-d794cb17ea0c",
+  "attributes": [
+    {
+      "key": "67188bb5-99de-42ca-9e19-74d73402f2f4",
+      "title": "Identification Details",
+      "fields": [
+        {
+          "key": "person_name",
+          "label": "Person Full Name",
+          "dataType": "string",
+          "dataElementId": "abb51cfa-d57b-4bee-af38-4ed22e2729fd",
+          "required": true
+        },
+        {
+          "key": "person_gender",
+          "label": "Gender",
+          "dataType": "select_one",
+          "dataElementId": "17fea262-eed0-4a51-a00b-7d98cfbac120"
+        },
+        {
+          "key": "birthdate",
+          "label": "Date of Birth",
+          "dataType": "date",
+          "dataElementId": "6198a2c5-6eea-408b-a8e2-a2198cdd4dca"
+        },
+        {
+          "key": "person_is_deceased",
+          "label": "Is Deceased",
+          "dataType": "boolean",
+          "dataElementId": "b62d0731-213b-4924-a067-fc6976a78b78"
+        }
+      ]
+    }
+  ],
+  "dashboard": [
+    {
+      "key": "profile",
+      "title": "Child",
+      "fields": [
+        {
+          "key": "age",
+          "label": "Age",
+          "value": "age",
+          "icon": "person-child"
+        }
+      ]
+    },
+    {
+      "key": "vaccination",
+      "title": "Vaccination",
+      "fields": [
+        {
+          "key": "vacc_status",
+          "label": "Status",
+          "value": "vaccinationStatusLabel",
+          "icon": "ind-immunized"
+        },
+        {
+          "key": "doses_received",
+          "label": "Doses received",
+          "value": "dosesReceived",
+          "icon": "wf-vaccination"
+        },
+        {
+          "key": "overdue_doses",
+          "label": "Overdue doses",
+          "value": "overdueDoses",
+          "icon": "ind-missed-doses"
+        },
+        {
+          "key": "next_appointment",
+          "label": "Next appointment",
+          "value": "nextAppointment",
+          "icon": "form-vaccination-followup"
+        },
+        {
+          "key": "last_vacc_visit",
+          "label": "Last visit",
+          "value": "lastVaccinationVisit",
+          "icon": "sec-visit"
+        }
+      ]
+    },
+    {
+      "key": "nutrition",
+      "title": "Nutrition",
+      "displayExpression": "hasNutritionData",
+      "fields": [
+        {
+          "key": "nutrition_status",
+          "label": "Status",
+          "value": "nutritionStatusLabel",
+          "icon": "wf-nutrition"
+        },
+        {
+          "key": "muac",
+          "label": "Last MUAC (mm)",
+          "value": "lastMuac",
+          "icon": "form-nutrition-followup"
+        },
+        {
+          "key": "weight",
+          "label": "Last weight (kg)",
+          "value": "lastWeight",
+          "icon": "form-nutrition-assessment"
+        },
+        {
+          "key": "next_followup",
+          "label": "Next follow-up",
+          "value": "nextFollowUp",
+          "icon": "task-nutrition-followup"
+        },
+        {
+          "key": "last_nutrition_visit",
+          "label": "Last visit",
+          "value": "lastNutritionVisit",
+          "icon": "sec-visit"
+        }
+      ]
+    }
+  ]
+}

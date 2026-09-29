@@ -1,0 +1,28 @@
+{
+  "id": "bb904ae4-1689-46b8-91e5-6e065f010ee1",
+  "name": "birth_doses",
+  "label": "Birth Doses",
+  "options": [
+    {
+      "id": "40c98629-3d69-40c0-ace6-c0f803084240",
+      "name": "BCG",
+      "value": "bcg",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "71dad9dd-5980-4e66-a5df-e1c3253243e3",
+      "name": "Polio 0 (OPV 0)",
+      "value": "opv0",
+      "nameAudio": null,
+      "icon": null
+    },
+    {
+      "id": "f1bcf65d-2e64-4dec-bbb5-6b7f0348a5e6",
+      "name": "Hepatitis B birth dose",
+      "value": "hepb0",
+      "nameAudio": null,
+      "icon": null
+    }
+  ]
+}

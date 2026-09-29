@@ -1,0 +1,18 @@
+{
+  "id": "18f565f2-ecb7-48e5-8e82-c97c03db996d",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "food_groups_eaten_yesterday",
+  "label": "Food groups eaten yesterday",
+  "icon": "symbol-string",
+  "description": "Food groups eaten yesterday",
+  "placeholder": "",
+  "hint": "",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "4203f6a3-be45-43c1-a653-4daa3c124dde",
+  "tags": []
+}

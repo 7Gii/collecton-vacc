@@ -1,0 +1,27 @@
+{
+  "id": "4fd88e98-60a7-45aa-a55c-2c91c2eb1bfd",
+  "name": "weekly_nutrition_followup",
+  "title": "Weekly nutrition follow-up",
+  "icon": "task-nutrition-followup",
+  "description": [
+    "MAM or SAM child under treatment: weekly visit."
+  ],
+  "appliesTo": "report",
+  "actionFormId": "195c749e-389e-4b54-9b2f-47b38600d3c9",
+  "events": [
+    {
+      "id": "weekly_visit",
+      "title": "Weekly visit",
+      "dueDays": 7,
+      "startDays": 2,
+      "endDays": 7
+    }
+  ],
+  "forms": [
+    "child_nutrition_assessment",
+    "child_nutrition_followup"
+  ],
+  "resolvedIf": "resolvedIf",
+  "priority": 3,
+  "appliesIf": "appliesIf"
+}

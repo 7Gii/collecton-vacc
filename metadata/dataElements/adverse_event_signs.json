@@ -1,0 +1,18 @@
+{
+  "id": "f9383114-39fc-42c8-bc97-3705a773e4fe",
+  "dataType": "select_multiple",
+  "organisation": "",
+  "name": "adverse_event_signs",
+  "label": "Adverse event signs",
+  "icon": "symbol-string",
+  "description": "Adverse event signs",
+  "placeholder": "",
+  "hint": "Convulsions: refer immediately",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": "b35a2629-d46f-428c-bd08-8b1d5cae3237",
+  "tags": []
+}
