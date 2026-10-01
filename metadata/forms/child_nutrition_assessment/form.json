@@ -2,11 +2,11 @@
   "id": "4548b117-1ba4-415f-b6c8-c24d6d3b9824",
   "name": "child_nutrition_assessment",
   "title": "Child nutrition assessment",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icon": "form-nutrition-assessment",
   "className": "",
   "displayExpression": "showForm",
-  "duration": 30,
+  "duration": 365,
   "sections": [
     {
       "key": "6e2be44e-064b-44d5-afb6-98258c19f3ff",
@@ -261,6 +261,21 @@
           "validationExpression": "(app) => true",
           "placeholder": "",
           "hint": "",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        },
+        {
+          "key": "visit_location",
+          "label": "Visit location (GPS)",
+          "dataType": "geopoint",
+          "dataElementId": "026a9846-5198-4a4f-af09-8a9674badeba",
+          "tags": [],
+          "className": "",
+          "required": "(app) => false",
+          "displayExpression": "(app) => true",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "Capture the GPS position of the household",
           "requiredMessage": "This value is required",
           "validationMessage": "The value is invalid"
         }

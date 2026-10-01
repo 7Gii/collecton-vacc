@@ -1,0 +1,32 @@
+{
+  "id": "plan-e1e986d9",
+  "kind": "project",
+  "description": "Un programme de vaccination et de malnutiontion, pour les enfant de 0 a 5 ans\n\nPour une hierarchie a 5 niveaux (pays, aire de sante, zone de supervision, site D'ASC et famille)\nUtiliser des iconnes  bien caracterisé chaques.\n\nil s'agit de concevoir un progremme complet de vaccination et de malnution avec chacun son entree.\n- formulaire d'evaluation et les suivies bien designees avec plusieurs page\n- des taches, des summaries et des indicateurs et mini indicateurs pertinants",
+  "spec": {
+    "title": "Child Vaccination and Nutrition Program",
+    "organisation": "",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "defaultLanguage": "en"
+  },
+  "status": "confirmed",
+  "createdAt": "2026-09-29T04:49:52.966Z",
+  "updatedAt": "2026-09-29T04:59:17.550Z",
+  "confirmation": "c'est ok",
+  "defaulted": [
+    "organisation",
+    "languages",
+    "default_language"
+  ],
+  "scope": [
+    {
+      "kind": "project",
+      "name": "Child Vaccination and Nutrition Program"
+    }
+  ],
+  "generated": [
+    "project: Child Vaccination and Nutrition Program"
+  ]
+}

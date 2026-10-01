@@ -48,12 +48,6 @@
     "description": "Allows the user to perform manual synchronization."
   },
   {
-    "id": "3815914a-72df-40d8-bb8a-959e7b819ff5",
-    "name": "permission_abandon_workflow",
-    "label": "Abandon Workflow",
-    "description": "Allows the user to abandon an in-progress workflow (person or org unit follow-up)."
-  },
-  {
     "id": "ca0078c7-939b-4a77-b03f-685f3ee49b0c",
     "name": "permission_create_country",
     "label": "Create Country",

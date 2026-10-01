@@ -1,0 +1,18 @@
+{
+  "id": "6891e700-7903-4382-b04d-828bcd71ff08",
+  "dataType": "image",
+  "organisation": "",
+  "name": "vaccination_card_photo",
+  "label": "Vaccination card photo",
+  "icon": "symbol-string",
+  "description": "Vaccination card photo",
+  "placeholder": "",
+  "hint": "Take a photo of the updated card pages",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

@@ -15,8 +15,5 @@
     "permission_edit_family",
     "permission_create_child",
     "permission_edit_child"
-  ],
-  "orgUnitsSync": "getOrgUnitsForSync",
-  "personsSync": "getPersonsForSync",
-  "reportsSync": "getReportsForSync"
+  ]
 }

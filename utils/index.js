@@ -1,6 +1,6 @@
 /**
  * Shared helpers of the Child Vaccination and Nutrition Program, exposed as app.utils
- * to workflows, indicators, tasks and summary cards (mobile and console).
+ * to forms, tasks, indicators and summary cards (mobile and console).
  */
 
 export const VACCINATION_FORMS = ['child_vaccination_assessment', 'child_vaccination_followup'];

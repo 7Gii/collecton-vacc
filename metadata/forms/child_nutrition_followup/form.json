@@ -2,11 +2,11 @@
   "id": "195c749e-389e-4b54-9b2f-47b38600d3c9",
   "name": "child_nutrition_followup",
   "title": "Child nutrition follow-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "form-nutrition-followup",
   "className": "",
   "displayExpression": "showForm",
-  "duration": 30,
+  "duration": 365,
   "sections": [
     {
       "key": "ae1b387b-eb0c-4027-8878-75c6909da6f3",

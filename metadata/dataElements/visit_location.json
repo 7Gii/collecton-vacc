@@ -1,0 +1,18 @@
+{
+  "id": "026a9846-5198-4a4f-af09-8a9674badeba",
+  "dataType": "geopoint",
+  "organisation": "",
+  "name": "visit_location",
+  "label": "Visit location (GPS)",
+  "icon": "symbol-string",
+  "description": "Visit location (GPS)",
+  "placeholder": "",
+  "hint": "Capture the GPS position of the household",
+  "requiredMessage": "This value is required",
+  "validationMessage": "The value is invalid",
+  "defaultValue": "(app) => ''",
+  "calculationExpression": null,
+  "isConfidential": false,
+  "optionSetId": null,
+  "tags": []
+}

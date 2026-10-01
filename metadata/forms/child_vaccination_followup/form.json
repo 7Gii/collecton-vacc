@@ -2,11 +2,11 @@
   "id": "ed69bcbe-7812-41aa-b0f7-32489e58e828",
   "name": "child_vaccination_followup",
   "title": "Child vaccination follow-up",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "form-vaccination-followup",
   "className": "",
   "displayExpression": "showForm",
-  "duration": 30,
+  "duration": 1825,
   "sections": [
     {
       "key": "3bddb340-97f8-45e4-baaa-fa271e395564",

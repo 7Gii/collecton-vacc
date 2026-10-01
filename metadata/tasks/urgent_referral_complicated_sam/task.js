@@ -14,6 +14,6 @@ export function appliesIf(app) {
 
 /** Done once a later nutrition follow-up exists. */
 export function resolvedIf(app) {
-  return (app.getReports({ form: 'child_nutrition_followup' }) || [])
+  return (app.getReports({ form: 'child_nutrition_followup', targetId: app.report.target_id }) || [])
     .some(r => r.created_at > app.report.created_at);
 }

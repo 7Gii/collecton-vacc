@@ -12,7 +12,6 @@
     "permission_delete_report",
     "permission_automatic_sync",
     "permission_manual_sync",
-    "permission_abandon_workflow",
     "permission_create_chw_site",
     "permission_edit_chw_site",
     "permission_create_family",
@@ -21,8 +20,5 @@
     "permission_create_child",
     "permission_edit_child",
     "permission_delete_child"
-  ],
-  "orgUnitsSync": "getOrgUnitsForSync",
-  "personsSync": "getPersonsForSync",
-  "reportsSync": "getReportsForSync"
+  ]
 }

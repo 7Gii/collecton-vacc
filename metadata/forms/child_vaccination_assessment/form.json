@@ -2,11 +2,11 @@
   "id": "c8a4ebc2-9f69-4685-a899-0d6d742aaf74",
   "name": "child_vaccination_assessment",
   "title": "Child vaccination assessment",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icon": "form-vaccination-assessment",
   "className": "",
   "displayExpression": "showForm",
-  "duration": 30,
+  "duration": 1825,
   "sections": [
     {
       "key": "5fdb5017-2035-4f61-9f85-4998bec1ac8a",
@@ -45,6 +45,21 @@
           "validationExpression": "(app) => true",
           "placeholder": "",
           "hint": "Ask to see the child health or vaccination card",
+          "requiredMessage": "This value is required",
+          "validationMessage": "The value is invalid"
+        },
+        {
+          "key": "vaccination_card_photo",
+          "label": "Vaccination card photo",
+          "dataType": "image",
+          "dataElementId": "6891e700-7903-4382-b04d-828bcd71ff08",
+          "tags": [],
+          "className": "",
+          "required": "(app) => false",
+          "displayExpression": "(app) => app.currentForm.vaccination_card_available === true",
+          "validationExpression": "(app) => true",
+          "placeholder": "",
+          "hint": "Take a photo of the updated card pages",
           "requiredMessage": "This value is required",
           "validationMessage": "The value is invalid"
         },
